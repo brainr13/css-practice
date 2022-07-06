@@ -1,0 +1,1 @@
+I made a basic website for this practice. The purpose was to add CSS properties to HTML using external, internal, and inline methods. I also added classes and ID's and included various font properties.
